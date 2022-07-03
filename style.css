@@ -10,3 +10,7 @@ body {
 .bg-one {
     background-color: aqua;
 }
+.bg-two{
+    background-color: black;
+    color: whitesmoke;
+}
